@@ -1,0 +1,1 @@
+-- This is a SQL file to test under Snowflake 
